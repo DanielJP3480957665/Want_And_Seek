@@ -36,6 +36,27 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.1.0"
+  cloud_firestore:
+    dependency: "direct main"
+    description:
+      name: cloud_firestore
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "3.1.5"
+  cloud_firestore_platform_interface:
+    dependency: transitive
+    description:
+      name: cloud_firestore_platform_interface
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "5.4.10"
+  cloud_firestore_web:
+    dependency: transitive
+    description:
+      name: cloud_firestore_web
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "2.6.5"
   collection:
     dependency: transitive
     description:
@@ -99,6 +120,27 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.5.3"
+  firebase_storage:
+    dependency: "direct main"
+    description:
+      name: firebase_storage
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "10.2.4"
+  firebase_storage_platform_interface:
+    dependency: transitive
+    description:
+      name: firebase_storage_platform_interface
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "4.0.11"
+  firebase_storage_web:
+    dependency: transitive
+    description:
+      name: firebase_storage_web
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "3.2.5"
   flutter:
     dependency: "direct main"
     description: flutter
@@ -163,6 +205,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.10.0+3"
+  http:
+    dependency: transitive
+    description:
+      name: http
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.13.4"
   http_parser:
     dependency: transitive
     description:
@@ -171,7 +220,7 @@ packages:
     source: hosted
     version: "4.0.0"
   intl:
-    dependency: transitive
+    dependency: "direct main"
     description:
       name: intl
       url: "https://pub.dartlang.org"
@@ -233,6 +282,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.0.3"
+  simple_gesture_detector:
+    dependency: transitive
+    description:
+      name: simple_gesture_detector
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.2.0"
   sky_engine:
     dependency: transitive
     description: flutter
@@ -273,6 +329,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.1.0"
+  table_calendar:
+    dependency: "direct main"
+    description:
+      name: table_calendar
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "3.0.3"
   term_glyph:
     dependency: transitive
     description:
